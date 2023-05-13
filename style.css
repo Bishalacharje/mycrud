@@ -1,0 +1,51 @@
+body{
+    padding: 48px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+div h1{
+    font-family: 'Montserrat', sans-serif;
+    
+    
+}
+#test{
+    padding: 48px 36px;
+    margin: auto;
+    background-color: rgb(132, 226, 226);
+    width: 50%;
+}
+#head-sec{
+    width: 100%;
+    padding: 0;
+   } 
+   #myInput{
+    
+    width: 300px;
+    
+   }
+form input[type=submit]{
+    width: auto;
+   
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 0;
+    right: 0;
+    
+   
+    
+
+}
+
+
+
+RcX6!>!k!+Y1p4[E
+
+
